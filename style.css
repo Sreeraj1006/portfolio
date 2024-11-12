@@ -1,0 +1,54 @@
+
+*{
+    background-image: url(background.jpg );
+    background-size: cover;
+    font-family: "poppins";
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  
+}
+.nav-bar{
+    display: inline;
+    
+}
+.para{
+     text-align: center;
+    color: bisque;
+    font-size: 30px;
+    font-weight: 400;
+    background-color: rgba(255,255,255,0.1);
+}
+ .heading{
+    text-align: center;
+    color: silver;
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom:10px;
+    margin-bottom: 20px;
+ }
+ #profile{
+   position: absolute;
+   left :650px;
+   top: 600px;
+   margin-bottom:10px ;
+ }
+
+ .desc{
+    color: bisque;
+    justify-content:justify;
+    position: absolute;
+    left:600px;
+    top:850px;
+    line-height: 25px;
+}
+
+
+.skills{
+    color: silver;
+    line-height: 70px;
+    font-weight: 700;
+    font-family: "poppins";
+    font-size: 40px;
+
+}
